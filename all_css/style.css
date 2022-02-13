@@ -34,8 +34,8 @@ figcaption{
     padding-left: 400px;
     font-size: 20px; 
     text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 ul{
     padding-right: 400px;
@@ -61,3 +61,4 @@ li{
     text-align: center;
     color: rgb(178, 190, 181)
 }
+
