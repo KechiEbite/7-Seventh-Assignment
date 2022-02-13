@@ -3,3 +3,6 @@ body{
     color: white;
     font-family: 'Poppins', sans-serif;
 }
+img{
+    background-image: url(11.jpg);
+}
