@@ -2,17 +2,56 @@ body{
     background-color:darkred;
     color: white;
     font-family: 'Poppins', sans-serif;
+    background-size: 50%;
+}
+h1{
+    font-size: 65px;
+    font-weight: 800;
+    text-align: center;
+}
+.h1-subtitle{
+    text-align: center;
+    color: rgb(178, 190, 181)
 }
 .back-image{
     position: relative;
-    width:95%;
-    filter: grayscale(90%) brightness(30%) sepia(100%) hue-rotate(-55deg) saturate(700%) contrast(0.8);
+    width:100%;
+    filter: grayscale(90%) brightness(30%) sepia(100%) hue-rotate(-55deg) saturate(700%) contrast(0.9);
 }
 .top-image{
     position: absolute;
-    top: 125px;
-    left: 130px;
+    top: 230px;
+    left: 156px;
 }
 figcaption{
-
+    position: absolute;
+    top: 870px;
+    left: 110px;
+    font-size: large;
+}
+.before-list{
+    padding-right: 400px;
+    padding-left: 400px;
+    font-size: 20px; 
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+ul{
+    padding-right: 400px;
+    padding-left: 400px;
+    font-size: 17px;
+    line-height: 1.4;
+}
+li{
+    margin: 13px 0px;
+}
+.quote-para{
+    padding-right: 390px;
+    padding-left: 390px;
+    font-style: italic;
+    font-size: 17px;
+}
+.wiki-para{
+    
 }
