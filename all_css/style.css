@@ -26,7 +26,7 @@ h1{
 figcaption{
     position: absolute;
     top: 870px;
-    left: 110px;
+    left: 140px;
     font-size: large;
 }
 .before-list{
@@ -53,5 +53,11 @@ li{
     font-size: 17px;
 }
 .wiki-para{
-    
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+.kechi{
+    text-align: center;
+    color: rgb(178, 190, 181)
 }
