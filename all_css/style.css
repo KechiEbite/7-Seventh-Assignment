@@ -5,6 +5,14 @@ body{
 }
 .back-image{
     position: relative;
-    width: 100%;
-    
+    width:95%;
+    filter: grayscale(90%) brightness(30%) sepia(100%) hue-rotate(-55deg) saturate(700%) contrast(0.8);
+}
+.top-image{
+    position: absolute;
+    top: 125px;
+    left: 130px;
+}
+figcaption{
+
 }
